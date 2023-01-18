@@ -16,6 +16,7 @@ function NavBar() {
       <NavLink style={{ marginRight: "10px" }} to="/movies">
         Movies
       </NavLink>
+      
     </div>
   );
 }
